@@ -16,7 +16,7 @@ description              : "Powered by Jekyll and minimal-mistakes theme"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mrsta1123/mrsta1123.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/cloud.png"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/cloud.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Siliang Zhang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/mouse.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD at SCMS stats"
   location         : "Shanghai"
   email            : "zhangsiliang123@gmail.com"
